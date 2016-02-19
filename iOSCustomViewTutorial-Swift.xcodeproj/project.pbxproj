@@ -270,8 +270,10 @@
 		0B2990E41C0C299800BEAC5A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALTERNATE_GROUP = "";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "iOSCustomViewTutorial-Swift/Info.plist";
+				INSTALL_GROUP = "";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.arunprasanth.iOSCustomViewTutorial-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -281,8 +283,10 @@
 		0B2990E51C0C299800BEAC5A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALTERNATE_GROUP = "";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "iOSCustomViewTutorial-Swift/Info.plist";
+				INSTALL_GROUP = "";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.arunprasanth.iOSCustomViewTutorial-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -308,6 +312,7 @@
 				0B2990E51C0C299800BEAC5A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

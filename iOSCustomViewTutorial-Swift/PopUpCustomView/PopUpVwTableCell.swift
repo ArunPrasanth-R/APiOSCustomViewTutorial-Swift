@@ -2,8 +2,8 @@
 //  SFPopIpTableViewCell.swift
 //  StayFit
 //
-//  Created by Pavithra Duraisamy on 29/11/15.
-//  Copyright © 2015 Payoda. All rights reserved.
+//  Created by ArunPrasanth R on 29/11/15.
+//  Copyright © 2015 ArunPrasanth R. All rights reserved.
 //
 
 import UIKit
